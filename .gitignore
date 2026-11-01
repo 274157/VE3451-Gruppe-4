@@ -1,0 +1,6 @@
+.venv/
+data_cache/
+features/
+*.wav
+*.npy
+.ipynb_checkpoints/
