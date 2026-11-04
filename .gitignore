@@ -1,0 +1,7 @@
+my_path.py
+**/features/
+**/data_cache/
+**/models/
+**/*.npy
+**/*.joblib
+**/*.pth
