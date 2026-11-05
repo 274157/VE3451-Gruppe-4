@@ -1,7 +1,10 @@
-my_path.py
+**/data/
+**/my_path.py
+**/.venv/
 **/features/
 **/data_cache/
 **/models/
 **/*.npy
 **/*.joblib
-**/*.pth
+**/.ipynb_checkpoints/
+**/*.wav
